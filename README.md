@@ -107,4 +107,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Django Framework
 - Bootstrap for UI components
 - factory-boy for test data generation
-
